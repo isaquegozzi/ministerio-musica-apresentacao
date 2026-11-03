@@ -7,7 +7,9 @@
 Escalas, cifras e repertório em um só lugar.<br>
 Uma plataforma para organizar a equipe e preparar cada encontro.
 
-**[Acessar o aplicativo](https://igreja-metodista-phi.vercel.app)** · **[Falar com o desenvolvedor](https://github.com/isaquegozzi)**
+**Em produção, com cerca de 30 usuários.**
+
+**[Falar com o desenvolvedor](https://github.com/isaquegozzi)**
 
 ![Prévia ilustrativa do aplicativo em três celulares: escalas, início e repertório musical.](assets/previa-aplicativo.webp)
 
@@ -39,12 +41,6 @@ A proposta é simples: facilitar os combinados durante a semana para que a equip
 2. **Combinar:** acompanhar a disponibilidade e as confirmações da equipe.
 3. **Preparar:** consultar as músicas, revisar as cifras e conferir os tons.
 4. **Participar:** abrir as referências do encontro no celular, tablet ou computador.
-
-## Acesso ao aplicativo
-
-**[Abrir Ministério da Música →](https://igreja-metodista-phi.vercel.app)**
-
-O sistema exige autenticação. O acesso às equipes e aos recursos depende das permissões da conta; este repositório não fornece credenciais nem acesso de demonstração.
 
 ## Sobre este repositório
 
