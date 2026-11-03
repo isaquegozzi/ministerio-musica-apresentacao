@@ -1,0 +1,7 @@
+# Publicar somente a apresentação e sua imagem aprovada.
+/*
+!/.gitignore
+!/README.md
+!/assets/
+/assets/*
+!/assets/previa-aplicativo.webp
